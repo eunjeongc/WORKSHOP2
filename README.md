@@ -1,3 +1,3 @@
 # WORKSHOP2
-GitHub workshop
+GitHub workshop ends at five
 Happy birthday Caleb!
